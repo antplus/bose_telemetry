@@ -1,0 +1,6 @@
+#Bose Telemetry Block List (Please submit any other domains and advise if configuration or updates fail after blocking.)
+data.api.bose.io
+id.api.bose.io
+events.api.bosecm.com
+streamingoauth.bose.com
+streaming.bose.com
