@@ -5,6 +5,7 @@ id.api.bose.io
 events.api.bosecm.com
 streamingoauth.bose.com
 streaming.bose.com
+iot.api.bose.io
 #Other
 ##Block Alexa for Alexa integrated Bose devices
 ueiwsp.com 
